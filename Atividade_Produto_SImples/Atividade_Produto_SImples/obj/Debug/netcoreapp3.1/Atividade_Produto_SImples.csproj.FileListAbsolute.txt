@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.exe
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.deps.json
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.runtimeconfig.json
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.dll
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\bin\Debug\netcoreapp3.1\Atividade_Produto_SImples.pdb
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.AssemblyInfo.cs
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.dll
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.pdb
+C:\Users\micha\source\repos\Atividade_Produto_SImples\Atividade_Produto_SImples\obj\Debug\netcoreapp3.1\Atividade_Produto_SImples.genruntimeconfig.cache

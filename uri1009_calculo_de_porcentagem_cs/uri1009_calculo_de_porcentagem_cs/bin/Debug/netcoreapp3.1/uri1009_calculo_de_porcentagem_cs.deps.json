@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uri1009_calculo_de_porcentagem_cs/1.0.0": {
+        "runtime": {
+          "uri1009_calculo_de_porcentagem_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uri1009_calculo_de_porcentagem_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

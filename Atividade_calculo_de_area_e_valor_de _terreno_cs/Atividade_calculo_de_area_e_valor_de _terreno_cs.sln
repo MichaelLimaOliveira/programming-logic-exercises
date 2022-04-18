@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_calculo_de_area_e_valor_de _terreno_cs", "Atividade_calculo_de_area_e_valor_de _terreno_cs\Atividade_calculo_de_area_e_valor_de _terreno_cs.csproj", "{9787E342-1E28-4CDC-ACCF-04703AA2BD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9787E342-1E28-4CDC-ACCF-04703AA2BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9787E342-1E28-4CDC-ACCF-04703AA2BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9787E342-1E28-4CDC-ACCF-04703AA2BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9787E342-1E28-4CDC-ACCF-04703AA2BD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE3166B-CAA3-4D47-A151-A4917E249DC6}
+	EndGlobalSection
+EndGlobal

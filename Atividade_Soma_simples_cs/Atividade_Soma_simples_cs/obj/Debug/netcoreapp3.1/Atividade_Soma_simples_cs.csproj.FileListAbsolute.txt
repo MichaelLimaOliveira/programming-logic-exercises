@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.exe
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.deps.json
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.runtimeconfig.json
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.dll
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\bin\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.pdb
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.AssemblyInfo.cs
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.dll
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.pdb
+C:\Users\micha\source\repos\Atividade_Soma_simples_cs\Atividade_Soma_simples_cs\obj\Debug\netcoreapp3.1\Atividade_Soma_simples_cs.genruntimeconfig.cache

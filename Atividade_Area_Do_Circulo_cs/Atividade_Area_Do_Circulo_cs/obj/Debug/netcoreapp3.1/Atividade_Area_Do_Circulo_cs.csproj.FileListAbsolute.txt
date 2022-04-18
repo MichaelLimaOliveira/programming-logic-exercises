@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.exe
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.deps.json
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.runtimeconfig.json
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.dll
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\bin\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.pdb
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.AssemblyInfo.cs
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.dll
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.pdb
+C:\Users\micha\source\repos\Atividade_Area_Do_Circulo_cs\Atividade_Area_Do_Circulo_cs\obj\Debug\netcoreapp3.1\Atividade_Area_Do_Circulo_cs.genruntimeconfig.cache

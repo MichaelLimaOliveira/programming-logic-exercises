@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.exe
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.deps.json
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.runtimeconfig.json
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.runtimeconfig.dev.json
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.dll
+C:\Users\micha\source\repos\uri1010\uri1010\bin\Debug\netcoreapp3.1\uri1010.pdb
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.AssemblyInfo.cs
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.dll
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.pdb
+C:\Users\micha\source\repos\uri1010\uri1010\obj\Debug\netcoreapp3.1\uri1010.genruntimeconfig.cache

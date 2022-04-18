@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.exe
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.deps.json
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.runtimeconfig.json
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.runtimeconfig.dev.json
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.dll
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\bin\Debug\netcoreapp3.1\uri1006_media.pdb
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.AssemblyInfo.cs
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.dll
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.pdb
+C:\Users\micha\source\repos\uri1006_media\uri1006_media\obj\Debug\netcoreapp3.1\uri1006_media.genruntimeconfig.cache

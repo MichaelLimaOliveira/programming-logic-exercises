@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade_Produto_SImples/1.0.0": {
+        "runtime": {
+          "Atividade_Produto_SImples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_Produto_SImples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

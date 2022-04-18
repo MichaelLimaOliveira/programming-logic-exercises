@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade_calculo_de_area_e_valor_de _terreno_cs/1.0.0": {
+        "runtime": {
+          "Atividade_calculo_de_area_e_valor_de _terreno_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_calculo_de_area_e_valor_de _terreno_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

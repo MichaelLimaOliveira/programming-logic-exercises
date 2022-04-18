@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_2_exemplos_de_split_cs", "Atividade_2_exemplos_de_split_cs\Atividade_2_exemplos_de_split_cs.csproj", "{38EB262E-6B36-4B9E-B62A-B4FDF268FB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EB262E-6B36-4B9E-B62A-B4FDF268FB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EB262E-6B36-4B9E-B62A-B4FDF268FB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EB262E-6B36-4B9E-B62A-B4FDF268FB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EB262E-6B36-4B9E-B62A-B4FDF268FB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD0DF8E-58B4-46D7-8151-2F0B72D041B7}
+	EndGlobalSection
+EndGlobal

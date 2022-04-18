@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.exe
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.deps.json
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.runtimeconfig.json
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.dll
+C:\Users\micha\source\repos\Uri1005\Uri1005\bin\Debug\netcoreapp3.1\Uri1005.pdb
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.AssemblyInfo.cs
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.dll
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.pdb
+C:\Users\micha\source\repos\Uri1005\Uri1005\obj\Debug\netcoreapp3.1\Uri1005.genruntimeconfig.cache

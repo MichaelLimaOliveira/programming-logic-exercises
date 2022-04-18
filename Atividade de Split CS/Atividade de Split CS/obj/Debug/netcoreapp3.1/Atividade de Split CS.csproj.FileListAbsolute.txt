@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.exe
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.deps.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.runtimeconfig.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.dll
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\bin\Debug\netcoreapp3.1\Atividade de Split CS.pdb
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.dll
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.pdb
+C:\Users\micha\OneDrive\Documentos\Curso logica de programaçao c#\Exercicios\Atividade de Split CS\Atividade de Split CS\obj\Debug\netcoreapp3.1\Atividade de Split CS.genruntimeconfig.cache
