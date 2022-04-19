@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade_split_2_cs/1.0.0": {
+        "runtime": {
+          "Atividade_split_2_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_split_2_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

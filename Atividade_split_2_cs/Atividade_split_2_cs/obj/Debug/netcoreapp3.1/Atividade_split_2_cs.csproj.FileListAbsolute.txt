@@ -1,0 +1,14 @@
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.exe
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.deps.json
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.runtimeconfig.json
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.runtimeconfig.dev.json
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.dll
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\bin\Debug\netcoreapp3.1\Atividade_split_2_cs.pdb
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.csproj.AssemblyReference.cache
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.AssemblyInfo.cs
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.dll
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.pdb
+D:\Repositorios\Atividades\Atividade_split_2_cs\Atividade_split_2_cs\obj\Debug\netcoreapp3.1\Atividade_split_2_cs.genruntimeconfig.cache
