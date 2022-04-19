@@ -1,0 +1,13 @@
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.exe
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.deps.json
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.runtimeconfig.json
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.runtimeconfig.dev.json
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.dll
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\bin\Debug\netcoreapp3.1\Exemplos_de_for_cs.pdb
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.AssemblyInfo.cs
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.dll
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.pdb
+D:\Repositorios\Atividades\Exemplos_de_for_cs\Exemplos_de_for_cs\obj\Debug\netcoreapp3.1\Exemplos_de_for_cs.genruntimeconfig.cache

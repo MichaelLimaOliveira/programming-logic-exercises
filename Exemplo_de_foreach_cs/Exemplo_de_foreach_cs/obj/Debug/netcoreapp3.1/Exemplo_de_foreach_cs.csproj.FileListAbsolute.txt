@@ -1,0 +1,14 @@
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.exe
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.deps.json
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.runtimeconfig.json
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.runtimeconfig.dev.json
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.dll
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\bin\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.pdb
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.csproj.AssemblyReference.cache
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.AssemblyInfo.cs
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.dll
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.pdb
+D:\Repositorios\Atividades\Exemplo_de_foreach_cs\Exemplo_de_foreach_cs\obj\Debug\netcoreapp3.1\Exemplo_de_foreach_cs.genruntimeconfig.cache
