@@ -11,3 +11,4 @@ D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.cspro
 D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.dll
 D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.pdb
 D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.genruntimeconfig.cache
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.csproj.AssemblyReference.cache
