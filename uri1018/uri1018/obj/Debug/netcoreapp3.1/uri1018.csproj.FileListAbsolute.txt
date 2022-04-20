@@ -1,0 +1,13 @@
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.exe
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.deps.json
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.json
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.dev.json
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.dll
+D:\Repositorios\Atividades\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.pdb
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfo.cs
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.dll
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.pdb
+D:\Repositorios\Atividades\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.genruntimeconfig.cache
