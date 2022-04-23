@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade_Baskara_ponto_flutuante/1.0.0": {
+        "runtime": {
+          "Atividade_Baskara_ponto_flutuante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_Baskara_ponto_flutuante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
