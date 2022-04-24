@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.exe
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.deps.json
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.runtimeconfig.json
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.dll
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\bin\Debug\netcoreapp3.1\uri1038_teste_de_vetor.pdb
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.dll
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.pdb
+C:\Repositorio\Atividades\uri1038_teste_de_vetor\uri1038_teste_de_vetor\obj\Debug\netcoreapp3.1\uri1038_teste_de_vetor.genruntimeconfig.cache

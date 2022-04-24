@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uri1038_teste_de_vetor/1.0.0": {
+        "runtime": {
+          "uri1038_teste_de_vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uri1038_teste_de_vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
