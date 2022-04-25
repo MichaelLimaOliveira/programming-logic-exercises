@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.exe
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.deps.json
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.runtimeconfig.json
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.runtimeconfig.dev.json
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.dll
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\bin\Debug\netcoreapp3.1\Teste_de_codigo.pdb
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.AssemblyInfo.cs
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.dll
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.pdb
+C:\Repositorio\Atividades\Teste_de_codigo\Teste_de_codigo\obj\Debug\netcoreapp3.1\Teste_de_codigo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.exe
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.deps.json
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.runtimeconfig.json
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.runtimeconfig.dev.json
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.dll
+C:\Repositorio\Atividades\Uri1041\Uri1041\bin\Debug\netcoreapp3.1\Uri1041.pdb
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.AssemblyInfo.cs
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.dll
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.pdb
+C:\Repositorio\Atividades\Uri1041\Uri1041\obj\Debug\netcoreapp3.1\Uri1041.genruntimeconfig.cache
