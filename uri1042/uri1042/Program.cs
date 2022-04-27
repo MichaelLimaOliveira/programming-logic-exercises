@@ -15,10 +15,9 @@ namespace uri1042
             int[] numerosOrdenados = numbers.OrderBy(number => number)
                                             .ToArray();
 
-            for (int i = 0; i < numerosOrdenados.Length; i++)
+            foreach (int number in numerosOrdenados)
             {
-                Console.WriteLine(numerosOrdenados[i]);
-
+                Console.WriteLine(number);
             }
 
             Console.WriteLine();
