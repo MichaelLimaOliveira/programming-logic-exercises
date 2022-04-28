@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Gerador de boas Vindas\bin\Debug\net6.0\Gerador de boas Vindas.exe
+D:\Users\micha\source\repos\Gerador de boas Vindas\bin\Debug\net6.0\Gerador de boas Vindas.deps.json
+D:\Users\micha\source\repos\Gerador de boas Vindas\bin\Debug\net6.0\Gerador de boas Vindas.runtimeconfig.json
+D:\Users\micha\source\repos\Gerador de boas Vindas\bin\Debug\net6.0\Gerador de boas Vindas.dll
+D:\Users\micha\source\repos\Gerador de boas Vindas\bin\Debug\net6.0\Gerador de boas Vindas.pdb
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.AssemblyInfo.cs
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.dll
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\refint\Gerador de boas Vindas.dll
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.pdb
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\Gerador de boas Vindas.genruntimeconfig.cache
+D:\Users\micha\source\repos\Gerador de boas Vindas\obj\Debug\net6.0\ref\Gerador de boas Vindas.dll
