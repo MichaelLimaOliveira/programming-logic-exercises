@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\bin\Debug\net6.0\Problema 2 Meu valor hora.exe
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\bin\Debug\net6.0\Problema 2 Meu valor hora.deps.json
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\bin\Debug\net6.0\Problema 2 Meu valor hora.runtimeconfig.json
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\bin\Debug\net6.0\Problema 2 Meu valor hora.dll
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\bin\Debug\net6.0\Problema 2 Meu valor hora.pdb
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.AssemblyInfo.cs
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.dll
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\refint\Problema 2 Meu valor hora.dll
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.pdb
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\Problema 2 Meu valor hora.genruntimeconfig.cache
+D:\Users\micha\source\repos\Exercio 2 valor por hora trabalhada\obj\Debug\net6.0\ref\Problema 2 Meu valor hora.dll

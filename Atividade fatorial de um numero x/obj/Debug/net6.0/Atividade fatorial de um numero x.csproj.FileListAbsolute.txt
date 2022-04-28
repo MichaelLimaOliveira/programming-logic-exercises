@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\bin\Debug\net6.0\Atividade fatorial de um numero x.exe
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\bin\Debug\net6.0\Atividade fatorial de um numero x.deps.json
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\bin\Debug\net6.0\Atividade fatorial de um numero x.runtimeconfig.json
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\bin\Debug\net6.0\Atividade fatorial de um numero x.dll
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\bin\Debug\net6.0\Atividade fatorial de um numero x.pdb
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.AssemblyInfo.cs
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.dll
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\refint\Atividade fatorial de um numero x.dll
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.pdb
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\Atividade fatorial de um numero x.genruntimeconfig.cache
+D:\Users\micha\source\repos\Atividade fatorial de um numero x\obj\Debug\net6.0\ref\Atividade fatorial de um numero x.dll

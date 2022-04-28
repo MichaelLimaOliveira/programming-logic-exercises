@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Equaçao2g\bin\Debug\net6.0\Equaçao2g.exe
+D:\Users\micha\source\repos\Equaçao2g\bin\Debug\net6.0\Equaçao2g.deps.json
+D:\Users\micha\source\repos\Equaçao2g\bin\Debug\net6.0\Equaçao2g.runtimeconfig.json
+D:\Users\micha\source\repos\Equaçao2g\bin\Debug\net6.0\Equaçao2g.dll
+D:\Users\micha\source\repos\Equaçao2g\bin\Debug\net6.0\Equaçao2g.pdb
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.AssemblyInfo.cs
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.dll
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\refint\Equaçao2g.dll
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.pdb
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\Equaçao2g.genruntimeconfig.cache
+D:\Users\micha\source\repos\Equaçao2g\obj\Debug\net6.0\ref\Equaçao2g.dll

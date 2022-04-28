@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\bin\Debug\net6.0\Exercicio3 Numero Aleatorio.exe
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\bin\Debug\net6.0\Exercicio3 Numero Aleatorio.deps.json
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\bin\Debug\net6.0\Exercicio3 Numero Aleatorio.runtimeconfig.json
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\bin\Debug\net6.0\Exercicio3 Numero Aleatorio.dll
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\bin\Debug\net6.0\Exercicio3 Numero Aleatorio.pdb
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.AssemblyInfo.cs
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.dll
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\refint\Exercicio3 Numero Aleatorio.dll
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.pdb
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\Exercicio3 Numero Aleatorio.genruntimeconfig.cache
+D:\Users\micha\source\repos\Exercicio3 Numero Aleatorio\obj\Debug\net6.0\ref\Exercicio3 Numero Aleatorio.dll

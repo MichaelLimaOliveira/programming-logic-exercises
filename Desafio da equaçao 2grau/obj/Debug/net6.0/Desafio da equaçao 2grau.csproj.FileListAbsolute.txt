@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\bin\Debug\net6.0\Desafio da equaçao 2grau.exe
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\bin\Debug\net6.0\Desafio da equaçao 2grau.deps.json
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\bin\Debug\net6.0\Desafio da equaçao 2grau.runtimeconfig.json
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\bin\Debug\net6.0\Desafio da equaçao 2grau.dll
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\bin\Debug\net6.0\Desafio da equaçao 2grau.pdb
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.AssemblyInfo.cs
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.dll
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\refint\Desafio da equaçao 2grau.dll
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.pdb
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\Desafio da equaçao 2grau.genruntimeconfig.cache
+D:\Users\micha\source\repos\Desafio da equaçao 2grau\obj\Debug\net6.0\ref\Desafio da equaçao 2grau.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problema 2 Meu valor hora/1.0.0": {
+        "runtime": {
+          "Problema 2 Meu valor hora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema 2 Meu valor hora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

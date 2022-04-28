@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio da equaçao 2grau/1.0.0": {
+        "runtime": {
+          "Desafio da equaçao 2grau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio da equaçao 2grau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

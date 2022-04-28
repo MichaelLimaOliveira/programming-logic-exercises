@@ -1,0 +1,15 @@
+D:\Users\micha\source\repos\Atividades Exibir maior valor\bin\Debug\net6.0\Atividades Exibir maior valor.exe
+D:\Users\micha\source\repos\Atividades Exibir maior valor\bin\Debug\net6.0\Atividades Exibir maior valor.deps.json
+D:\Users\micha\source\repos\Atividades Exibir maior valor\bin\Debug\net6.0\Atividades Exibir maior valor.runtimeconfig.json
+D:\Users\micha\source\repos\Atividades Exibir maior valor\bin\Debug\net6.0\Atividades Exibir maior valor.dll
+D:\Users\micha\source\repos\Atividades Exibir maior valor\bin\Debug\net6.0\Atividades Exibir maior valor.pdb
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.csproj.AssemblyReference.cache
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.AssemblyInfoInputs.cache
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.AssemblyInfo.cs
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.csproj.CoreCompileInputs.cache
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.dll
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\refint\Atividades Exibir maior valor.dll
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.pdb
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\Atividades Exibir maior valor.genruntimeconfig.cache
+D:\Users\micha\source\repos\Atividades Exibir maior valor\obj\Debug\net6.0\ref\Atividades Exibir maior valor.dll
