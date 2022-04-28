@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+C:\Repositorio\Atividades\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+C:\Repositorio\Atividades\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache

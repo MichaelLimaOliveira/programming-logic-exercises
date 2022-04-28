@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.exe
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.deps.json
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.runtimeconfig.json
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.dll
+C:\Repositorio\Atividades\uri1052\uri1052\bin\Debug\netcoreapp3.1\uri1052.pdb
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.dll
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.pdb
+C:\Repositorio\Atividades\uri1052\uri1052\obj\Debug\netcoreapp3.1\uri1052.genruntimeconfig.cache
