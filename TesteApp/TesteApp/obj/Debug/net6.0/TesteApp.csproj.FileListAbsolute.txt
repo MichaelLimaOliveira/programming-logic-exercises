@@ -1,0 +1,15 @@
+C:\Repositorio\Atividades\TesteApp\TesteApp\bin\Debug\net6.0\TesteApp.exe
+C:\Repositorio\Atividades\TesteApp\TesteApp\bin\Debug\net6.0\TesteApp.deps.json
+C:\Repositorio\Atividades\TesteApp\TesteApp\bin\Debug\net6.0\TesteApp.runtimeconfig.json
+C:\Repositorio\Atividades\TesteApp\TesteApp\bin\Debug\net6.0\TesteApp.dll
+C:\Repositorio\Atividades\TesteApp\TesteApp\bin\Debug\net6.0\TesteApp.pdb
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.AssemblyInfo.cs
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.dll
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\refint\TesteApp.dll
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.pdb
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\TesteApp.genruntimeconfig.cache
+C:\Repositorio\Atividades\TesteApp\TesteApp\obj\Debug\net6.0\ref\TesteApp.dll

@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.exe
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.deps.json
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.runtimeconfig.json
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.runtimeconfig.dev.json
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.dll
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\bin\Debug\netcoreapp3.1\AtividadeDeWhile.pdb
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.AssemblyInfo.cs
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.dll
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.pdb
+C:\Repositorio\Atividades\AtividadeDeWhile\AtividadeDeWhile\obj\Debug\netcoreapp3.1\AtividadeDeWhile.genruntimeconfig.cache
