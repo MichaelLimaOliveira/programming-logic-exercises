@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.exe
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.deps.json
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.runtimeconfig.json
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.dll
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\bin\Debug\netcoreapp3.1\uri1131Grenais.pdb
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.dll
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.pdb
+C:\Repositorio\Atividades\uri1131Grenais\uri1131Grenais\obj\Debug\netcoreapp3.1\uri1131Grenais.genruntimeconfig.cache
