@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.exe
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.deps.json
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.runtimeconfig.json
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.dll
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\bin\Debug\netcoreapp3.1\uri1078Tabuada.pdb
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.dll
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.pdb
+C:\Repositorio\Atividades\uri1078Tabuada\uri1078Tabuada\obj\Debug\netcoreapp3.1\uri1078Tabuada.genruntimeconfig.cache
