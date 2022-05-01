@@ -1,0 +1,16 @@
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.exe
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.deps.json
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.runtimeconfig.json
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.runtimeconfig.dev.json
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.dll
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\AtividadeDadosTexto.pdb
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.AssemblyInfo.cs
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.csproj.CopyComplete
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.dll
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.pdb
+C:\Repositorio\Atividades\AtividadeDadosTexto\AtividadeDadosTexto\obj\Debug\netcoreapp3.1\AtividadeDadosTexto.genruntimeconfig.cache

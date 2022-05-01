@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vl2SzDWxOJ0W+pMISEHX86xcU/7yfST07VtizBblEJqcobtEsLc7zR1IR8YDF3RRY1UQ58SGRevXw1uiKFPvHg==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\Atividades\\AtividadeDadosTexto\\AtividadeDadosTexto\\AtividadeDadosTexto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

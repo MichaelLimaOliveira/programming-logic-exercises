@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.exe
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.deps.json
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.runtimeconfig.json
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.dll
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\bin\Debug\netcoreapp3.1\uri1115Quadrantes.pdb
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.dll
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.pdb
+C:\Repositorio\Atividades\uri1115Quadrantes\uri1115Quadrantes\obj\Debug\netcoreapp3.1\uri1115Quadrantes.genruntimeconfig.cache

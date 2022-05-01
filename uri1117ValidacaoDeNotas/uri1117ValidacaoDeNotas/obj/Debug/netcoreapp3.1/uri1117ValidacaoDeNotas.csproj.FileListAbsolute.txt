@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.exe
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.deps.json
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.runtimeconfig.json
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.dll
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\bin\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.pdb
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.dll
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.pdb
+C:\Repositorio\Atividades\uri1117ValidacaoDeNotas\uri1117ValidacaoDeNotas\obj\Debug\netcoreapp3.1\uri1117ValidacaoDeNotas.genruntimeconfig.cache

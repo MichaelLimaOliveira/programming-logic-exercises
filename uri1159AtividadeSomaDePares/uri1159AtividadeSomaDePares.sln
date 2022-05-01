@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri1159AtividadeSomaDePares", "uri1159AtividadeSomaDePares\uri1159AtividadeSomaDePares.csproj", "{67894543-29C5-4797-B19A-312E2F19DE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67894543-29C5-4797-B19A-312E2F19DE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67894543-29C5-4797-B19A-312E2F19DE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67894543-29C5-4797-B19A-312E2F19DE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67894543-29C5-4797-B19A-312E2F19DE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BEA03AF-490B-4FFD-8617-A0657476932A}
+	EndGlobalSection
+EndGlobal

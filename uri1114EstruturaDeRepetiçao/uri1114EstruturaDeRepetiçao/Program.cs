@@ -11,8 +11,10 @@ namespace uri1114EstruturaDeRepetiçao
 
             while (code != correctCode)
             {
-                code = int.Parse(Console.ReadLine());
+
                 Console.WriteLine("Senha Invalida");
+                code = int.Parse(Console.ReadLine());
+
             }
             Console.WriteLine("Acesso Permitido");
         }
