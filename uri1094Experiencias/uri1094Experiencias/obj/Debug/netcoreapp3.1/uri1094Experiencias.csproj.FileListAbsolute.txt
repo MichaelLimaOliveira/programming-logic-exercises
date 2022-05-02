@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.exe
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.deps.json
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.runtimeconfig.json
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.dll
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\bin\Debug\netcoreapp3.1\uri1094Experiencias.pdb
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.dll
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.pdb
+C:\Repositorio\Atividades\uri1094Experiencias\uri1094Experiencias\obj\Debug\netcoreapp3.1\uri1094Experiencias.genruntimeconfig.cache

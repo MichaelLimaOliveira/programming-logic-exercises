@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.exe
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.deps.json
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.runtimeconfig.json
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.dll
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\bin\Debug\netcoreapp3.1\uri1096Sequencia.pdb
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.dll
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.pdb
+C:\Repositorio\Atividades\uri1096Sequencia\uri1096Sequencia\obj\Debug\netcoreapp3.1\uri1096Sequencia.genruntimeconfig.cache

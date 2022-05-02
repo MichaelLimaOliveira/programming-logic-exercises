@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.exe
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.deps.json
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.runtimeconfig.json
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.dll
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\bin\Debug\netcoreapp3.1\uri1116DividindoXporY.pdb
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.dll
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.pdb
+C:\Repositorio\Atividades\uri1116DividindoXporY\uri1116DividindoXporY\obj\Debug\netcoreapp3.1\uri1116DividindoXporY.genruntimeconfig.cache
