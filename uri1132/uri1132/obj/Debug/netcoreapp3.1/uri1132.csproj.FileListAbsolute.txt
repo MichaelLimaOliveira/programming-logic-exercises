@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.exe
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.deps.json
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.runtimeconfig.json
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.dll
+C:\Repositorio\Atividades\uri1132\uri1132\bin\Debug\netcoreapp3.1\uri1132.pdb
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.dll
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.pdb
+C:\Repositorio\Atividades\uri1132\uri1132\obj\Debug\netcoreapp3.1\uri1132.genruntimeconfig.cache

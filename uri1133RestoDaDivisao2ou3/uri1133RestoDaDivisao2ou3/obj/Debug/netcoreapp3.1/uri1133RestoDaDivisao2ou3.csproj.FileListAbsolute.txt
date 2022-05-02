@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.exe
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.deps.json
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.runtimeconfig.json
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.dll
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\bin\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.pdb
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.dll
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.pdb
+C:\Repositorio\Atividades\uri1133RestoDaDivisao2ou3\uri1133RestoDaDivisao2ou3\obj\Debug\netcoreapp3.1\uri1133RestoDaDivisao2ou3.genruntimeconfig.cache
