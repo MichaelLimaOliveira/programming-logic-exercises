@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.exe
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.deps.json
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.runtimeconfig.json
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.dll
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\bin\Debug\netcoreapp3.1\uri1075Resto2.pdb
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.dll
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.pdb
+C:\Repositorio\Atividades\uri1075Resto2\uri1075Resto2\obj\Debug\netcoreapp3.1\uri1075Resto2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.exe
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.deps.json
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.runtimeconfig.json
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.dll
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\bin\Debug\netcoreapp3.1\uri1074TesteParOuImpar.pdb
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.dll
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.pdb
+C:\Repositorio\Atividades\uri1074TesteParOuImpar\uri1074TesteParOuImpar\obj\Debug\netcoreapp3.1\uri1074TesteParOuImpar.genruntimeconfig.cache

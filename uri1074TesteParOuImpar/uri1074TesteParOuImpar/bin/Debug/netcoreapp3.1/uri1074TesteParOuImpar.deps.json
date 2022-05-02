@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uri1074TesteParOuImpar/1.0.0": {
+        "runtime": {
+          "uri1074TesteParOuImpar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uri1074TesteParOuImpar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
