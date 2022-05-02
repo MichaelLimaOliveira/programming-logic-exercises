@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.exe
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.deps.json
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.runtimeconfig.json
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.dll
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\bin\Debug\netcoreapp3.1\uri1067NumerosImpares.pdb
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.dll
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.pdb
+C:\Repositorio\Atividades\uri1067NumerosImpares\uri1067NumerosImpares\obj\Debug\netcoreapp3.1\uri1067NumerosImpares.genruntimeconfig.cache

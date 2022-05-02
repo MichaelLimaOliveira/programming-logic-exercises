@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.exe
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.deps.json
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.runtimeconfig.json
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.dll
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\bin\Debug\netcoreapp3.1\uri1073QuadradoDePares.pdb
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.dll
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.pdb
+C:\Repositorio\Atividades\uri1073QuadradoDePares\uri1073QuadradoDePares\obj\Debug\netcoreapp3.1\uri1073QuadradoDePares.genruntimeconfig.cache

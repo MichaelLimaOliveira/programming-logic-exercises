@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.exe
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.deps.json
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.runtimeconfig.json
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.dll
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\bin\Debug\netcoreapp3.1\uri1072IntervaloDeDois.pdb
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.dll
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.pdb
+C:\Repositorio\Atividades\uri1072IntervaloDeDois\uri1072IntervaloDeDois\obj\Debug\netcoreapp3.1\uri1072IntervaloDeDois.genruntimeconfig.cache
