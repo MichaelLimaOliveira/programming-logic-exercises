@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.exe
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.deps.json
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.runtimeconfig.json
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.dll
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\bin\Debug\netcoreapp3.1\uri1143QuadradoeCubo.pdb
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.dll
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.pdb
+C:\Repositorio\Atividades\uri1143QuadradoeCubo\uri1143QuadradoeCubo\obj\Debug\netcoreapp3.1\uri1143QuadradoeCubo.genruntimeconfig.cache

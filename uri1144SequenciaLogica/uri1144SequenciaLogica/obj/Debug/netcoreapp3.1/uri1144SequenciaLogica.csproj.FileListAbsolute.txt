@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.exe
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.deps.json
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.runtimeconfig.json
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.dll
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\bin\Debug\netcoreapp3.1\uri1144SequenciaLogica.pdb
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.dll
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.pdb
+C:\Repositorio\Atividades\uri1144SequenciaLogica\uri1144SequenciaLogica\obj\Debug\netcoreapp3.1\uri1144SequenciaLogica.genruntimeconfig.cache

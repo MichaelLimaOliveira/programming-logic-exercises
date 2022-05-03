@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.exe
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.deps.json
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.runtimeconfig.json
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.dll
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\bin\Debug\netcoreapp3.1\uri1153FatorialSimples.pdb
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.dll
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.pdb
+C:\Repositorio\Atividades\uri1153FatorialSimples\uri1153FatorialSimples\obj\Debug\netcoreapp3.1\uri1153FatorialSimples.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.exe
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.deps.json
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.runtimeconfig.json
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.dll
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\bin\Debug\netcoreapp3.1\uri1151Fibonacci.pdb
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.dll
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.pdb
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.genruntimeconfig.cache
+C:\Repositorio\Atividades\uri1151Fibonacci\uri1151Fibonacci\obj\Debug\netcoreapp3.1\uri1151Fibonacci.csproj.AssemblyReference.cache

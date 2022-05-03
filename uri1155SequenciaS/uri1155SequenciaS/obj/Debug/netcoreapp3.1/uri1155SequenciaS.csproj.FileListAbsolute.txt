@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.exe
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.deps.json
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.runtimeconfig.json
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.dll
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\bin\Debug\netcoreapp3.1\uri1155SequenciaS.pdb
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.dll
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.pdb
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.genruntimeconfig.cache
+C:\Repositorio\Atividades\uri1155SequenciaS\uri1155SequenciaS\obj\Debug\netcoreapp3.1\uri1155SequenciaS.csproj.AssemblyReference.cache

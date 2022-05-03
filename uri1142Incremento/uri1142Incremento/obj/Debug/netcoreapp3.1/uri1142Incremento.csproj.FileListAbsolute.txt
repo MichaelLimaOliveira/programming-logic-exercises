@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.exe
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.deps.json
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.runtimeconfig.json
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.dll
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\bin\Debug\netcoreapp3.1\uri1142Incremento.pdb
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.dll
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.pdb
+C:\Repositorio\Atividades\uri1142Incremento\uri1142Incremento\obj\Debug\netcoreapp3.1\uri1142Incremento.genruntimeconfig.cache
