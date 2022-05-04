@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.exe
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.deps.json
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.runtimeconfig.json
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.dll
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\bin\Debug\netcoreapp3.1\uri1157Divisores.pdb
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.dll
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.pdb
+C:\Repositorio\Atividades\uri1157Divisores\uri1157Divisores\obj\Debug\netcoreapp3.1\uri1157Divisores.genruntimeconfig.cache
