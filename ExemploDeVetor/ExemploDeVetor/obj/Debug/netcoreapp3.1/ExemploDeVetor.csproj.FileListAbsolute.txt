@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.exe
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.deps.json
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.runtimeconfig.json
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.runtimeconfig.dev.json
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.dll
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\bin\Debug\netcoreapp3.1\ExemploDeVetor.pdb
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.AssemblyInfo.cs
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.dll
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.pdb
+C:\Repositorio\Atividades\ExemploDeVetor\ExemploDeVetor\obj\Debug\netcoreapp3.1\ExemploDeVetor.genruntimeconfig.cache
