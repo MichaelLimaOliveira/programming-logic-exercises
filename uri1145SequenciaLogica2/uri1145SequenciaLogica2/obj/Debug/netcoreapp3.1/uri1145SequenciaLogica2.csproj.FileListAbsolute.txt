@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.exe
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.deps.json
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.runtimeconfig.json
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.dll
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\bin\Debug\netcoreapp3.1\uri1145SequenciaLogica2.pdb
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.dll
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.pdb
+C:\Repositorio\Atividades\uri1145SequenciaLogica2\uri1145SequenciaLogica2\obj\Debug\netcoreapp3.1\uri1145SequenciaLogica2.genruntimeconfig.cache

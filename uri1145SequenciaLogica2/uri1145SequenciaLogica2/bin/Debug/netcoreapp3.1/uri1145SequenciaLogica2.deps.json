@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uri1145SequenciaLogica2/1.0.0": {
+        "runtime": {
+          "uri1145SequenciaLogica2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uri1145SequenciaLogica2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

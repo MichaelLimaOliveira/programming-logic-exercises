@@ -1,0 +1,13 @@
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.exe
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.deps.json
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.runtimeconfig.json
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.dll
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\bin\Debug\netcoreapp3.1\uri1150UltrapassandoZ.pdb
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.dll
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.pdb
+C:\Repositorio\Atividades\uri1150UltrapassandoZ\uri1150UltrapassandoZ\obj\Debug\netcoreapp3.1\uri1150UltrapassandoZ.genruntimeconfig.cache

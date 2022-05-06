@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.exe
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.deps.json
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.runtimeconfig.json
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.runtimeconfig.dev.json
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.dll
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\bin\Debug\netcoreapp3.1\uri1165Primos.pdb
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.AssemblyInfo.cs
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.dll
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.pdb
+C:\Repositorio\Atividades\uri1165Primos\uri1165Primos\obj\Debug\netcoreapp3.1\uri1165Primos.genruntimeconfig.cache
