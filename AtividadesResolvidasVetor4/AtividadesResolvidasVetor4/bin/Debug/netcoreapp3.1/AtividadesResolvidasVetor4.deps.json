@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AtividadesResolvidasVetor4/1.0.0": {
+        "runtime": {
+          "AtividadesResolvidasVetor4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadesResolvidasVetor4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

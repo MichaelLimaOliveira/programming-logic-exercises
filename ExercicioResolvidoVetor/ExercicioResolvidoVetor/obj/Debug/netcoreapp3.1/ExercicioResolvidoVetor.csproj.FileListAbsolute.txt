@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.exe
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.deps.json
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.runtimeconfig.json
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.runtimeconfig.dev.json
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.dll
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\bin\Debug\netcoreapp3.1\ExercicioResolvidoVetor.pdb
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.AssemblyInfo.cs
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.dll
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.pdb
+C:\Repositorio\Atividades\ExercicioResolvidoVetor\ExercicioResolvidoVetor\obj\Debug\netcoreapp3.1\ExercicioResolvidoVetor.genruntimeconfig.cache
