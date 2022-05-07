@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AtividadesPropostasVetor3/1.0.0": {
+        "runtime": {
+          "AtividadesPropostasVetor3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadesPropostasVetor3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
