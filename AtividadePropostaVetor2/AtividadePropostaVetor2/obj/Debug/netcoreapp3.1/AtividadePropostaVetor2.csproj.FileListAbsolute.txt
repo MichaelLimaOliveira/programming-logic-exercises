@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.AssemblyInfo.cs
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.exe
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.deps.json
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.runtimeconfig.json
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.runtimeconfig.dev.json
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.dll
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\bin\Debug\netcoreapp3.1\AtividadePropostaVetor2.pdb
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.dll
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.pdb
+C:\Repositorio\Atividades\AtividadePropostaVetor2\AtividadePropostaVetor2\obj\Debug\netcoreapp3.1\AtividadePropostaVetor2.genruntimeconfig.cache
