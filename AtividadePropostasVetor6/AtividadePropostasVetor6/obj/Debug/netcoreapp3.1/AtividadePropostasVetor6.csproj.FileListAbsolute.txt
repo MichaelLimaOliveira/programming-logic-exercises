@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.exe
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.deps.json
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.runtimeconfig.json
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.runtimeconfig.dev.json
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.dll
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\bin\Debug\netcoreapp3.1\AtividadePropostasVetor6.pdb
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.AssemblyInfo.cs
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.dll
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.pdb
+C:\Repositorio\Atividades\AtividadePropostasVetor6\AtividadePropostasVetor6\obj\Debug\netcoreapp3.1\AtividadePropostasVetor6.genruntimeconfig.cache
