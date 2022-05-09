@@ -1,0 +1,14 @@
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.exe
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.deps.json
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.runtimeconfig.json
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.runtimeconfig.dev.json
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.dll
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\bin\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.pdb
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.csproj.AssemblyReference.cache
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.AssemblyInfoInputs.cache
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.AssemblyInfo.cs
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.csproj.CoreCompileInputs.cache
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.dll
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.pdb
+C:\Repositorio\Atividades\AtividadeResolvidaMatriz\AtividadeResolvidaMatriz\obj\Debug\netcoreapp3.1\AtividadeResolvidaMatriz.genruntimeconfig.cache
