@@ -13,20 +13,22 @@ namespace AtividadesResolvidasMatriz3
 
             int[,] matriz = new int[L, C];
 
-            int soma;
 
+            int[] vetSoma = new int[L];
             for (int i = 0; i < L; i++)
             {
-                soma = 0;
+
                 s = Console.ReadLine().Split(' ');
                 for (int j = 0; j < C; ++j)
                 {
                     matriz[i, j] = int.Parse(s[j]);
 
-                    soma += matriz[i,j];
+                    vetSoma[i] = vetSoma[i] + matriz[i, j];
                 }
-                Console.WriteLine(soma);
+
             }
+            Console.WriteLine(vetSoma[0]);
+            Console.WriteLine(vetSoma[1]);
         }
     }
 }
