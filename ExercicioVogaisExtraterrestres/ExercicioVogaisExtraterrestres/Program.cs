@@ -9,7 +9,8 @@ namespace ExercicioVogaisExtraterrestres
         {
             string frasseDeTeste = Console.ReadLine();
             string frase = Console.ReadLine();
-            int cont = frase.Where(c => frasseDeTeste.Contains(c)).Count();
+            // .Where do linq cria uma nova lista com base na condiçao passada dentro
+            int cont = frase.Where(charDentroDaFrase => frasseDeTeste.Contains(charDentroDaFrase)).Count();
             Console.WriteLine(cont);
         }
     }
