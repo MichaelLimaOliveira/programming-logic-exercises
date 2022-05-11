@@ -1,0 +1,15 @@
+D:\Repositorios\Atividades\ExemploDeLista\bin\Debug\net6.0\ExemploDeLista.exe
+D:\Repositorios\Atividades\ExemploDeLista\bin\Debug\net6.0\ExemploDeLista.deps.json
+D:\Repositorios\Atividades\ExemploDeLista\bin\Debug\net6.0\ExemploDeLista.runtimeconfig.json
+D:\Repositorios\Atividades\ExemploDeLista\bin\Debug\net6.0\ExemploDeLista.dll
+D:\Repositorios\Atividades\ExemploDeLista\bin\Debug\net6.0\ExemploDeLista.pdb
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.csproj.AssemblyReference.cache
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.AssemblyInfo.cs
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.dll
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\refint\ExemploDeLista.dll
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.pdb
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ExemploDeLista.genruntimeconfig.cache
+D:\Repositorios\Atividades\ExemploDeLista\obj\Debug\net6.0\ref\ExemploDeLista.dll

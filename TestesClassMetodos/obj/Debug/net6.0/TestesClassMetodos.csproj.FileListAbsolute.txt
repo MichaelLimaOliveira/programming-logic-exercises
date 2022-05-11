@@ -1,0 +1,15 @@
+D:\Repositorios\Atividades\TestesClassMetodos\bin\Debug\net6.0\TestesClassMetodos.exe
+D:\Repositorios\Atividades\TestesClassMetodos\bin\Debug\net6.0\TestesClassMetodos.deps.json
+D:\Repositorios\Atividades\TestesClassMetodos\bin\Debug\net6.0\TestesClassMetodos.runtimeconfig.json
+D:\Repositorios\Atividades\TestesClassMetodos\bin\Debug\net6.0\TestesClassMetodos.dll
+D:\Repositorios\Atividades\TestesClassMetodos\bin\Debug\net6.0\TestesClassMetodos.pdb
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.csproj.AssemblyReference.cache
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.AssemblyInfoInputs.cache
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.AssemblyInfo.cs
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.csproj.CoreCompileInputs.cache
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.dll
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\refint\TestesClassMetodos.dll
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.pdb
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\TestesClassMetodos.genruntimeconfig.cache
+D:\Repositorios\Atividades\TestesClassMetodos\obj\Debug\net6.0\ref\TestesClassMetodos.dll
